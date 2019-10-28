@@ -55,22 +55,30 @@
             <div class="card-body">
 
               <!-- Title -->
-              <h4 class="card-title text-danger"> Localización <i class="fas fa-map-marker-alt"></i></h4>
-              <!-- Text -->
-              <p class="card-text">San Jasmeo el Chico, Tejupilco Estado de México</p>
-              <!-- Button -->
-              <div class="row justify-content-center">
-                <div class="col-lg-12 center">
+              <h3 class="card-title text-danger text-center">
+                <span class="badge badge-pill badge-danger">
                   <i class="fas fa-dollar-sign"></i>
                   <!--<div class="w-100"></div>-->
                   50.00 MX
+                </span>
+                
+              </h3>
+               
+              <!-- Button -->
+              <div class="row justify-content-center">
+                <div class="col-lg-12 center indigo-text mt-2">
+                  <i class="fas fa-map-marker-alt"></i>
+                  <!-- Text -->
+                  Rincon del Avestrus, Tejupilco Estado de México
                 </div>
-                <div class="col-lg-12">
+                <div class="col-lg-12 border border-bottom"></div>
+                <div class="col-lg-12 indigo-text mt-2">
                   <i class="fas fa-user-tie"></i>
                   <!--<div class="w-100"></div>-->
-                  Don Abenene mota de casco
+                  Don Abenene Torres Sanchez
                 </div>
-                <div class="col-lg-12">
+                <div class="col-lg-12 border border-bottom"></div>
+                <div class="col-lg-12 indigo-text mt-2">
                   <i class="fas fa-building"></i>
                   <!--<div class="w-100"></div>-->
                   Departamento
