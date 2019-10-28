@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "idepa_beta",
+            "dialect": "MySQL",
+            "name": "idepa",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}

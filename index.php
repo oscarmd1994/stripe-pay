@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
 
   <title>Pay Page</title>
 </head>
@@ -25,10 +25,10 @@
         <div id="card-errors" role="alert"></div>
       </div>
 
-      <button>Submit Payment</button>
+      <button>Generar pago</button>
     </form>
   </div>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/jquery.min.js"></script>
   <script src="https://js.stripe.com/v3/"></script>
   <script src="./js/charge.js"></script>
 </body>
